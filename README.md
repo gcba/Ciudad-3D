@@ -1,11 +1,6 @@
-_Esta herramienta digital forma parte del catálogo de herramientas del **Banco Interamericano de Desarrollo**. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](https://code.iadb.org)_
-
-<br>
-
 <p align="center">
-<img  height="200"  src="https://user-images.githubusercontent.com/10349981/123717718-d2799280-d853-11eb-910d-e70ac5d27176.jpg">
+<img src="./docs/images/logo.jpg"  height="200" >
 </p>
-<br>
 
 # _<p align="center"> Ciudad 3D </p>_
 
